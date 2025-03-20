@@ -1,0 +1,71 @@
+/* Apply smooth scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  padding: 10px;
+  z-index: 1000;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul li {
+  margin: 0 15px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* Section Styling */
+section {
+  padding: 100px 20px;
+  min-height: 100vh; /* Ensures each section takes full viewport height */
+  text-align: center;
+}
+
+#hero {
+  background-color: #f4f4f4;
+}
+
+#about {
+  background-color: #e0e0e0;
+}
+
+#skills {
+  background-color: #c0c0c0;
+}
+
+#projects {
+  background-color: #a0a0a0;
+}
+
+#contact {
+  background-color: #808080;
+}
