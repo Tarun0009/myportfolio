@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.b42963df.css",
+    "main.js": "/myportfolio/static/js/main.c6990d54.js",
+    "static/js/453.83234151.chunk.js": "/myportfolio/static/js/453.83234151.chunk.js",
+    "static/media/img.png": "/myportfolio/static/media/img.4786ec20b2041159c025.png",
+    "static/media/fa-solid-900.ttf": "/myportfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/portfolio.png": "/myportfolio/static/media/portfolio.2d7de747c07161dde93f.png",
+    "static/media/shpsphere.png": "/myportfolio/static/media/shpsphere.557aa0650a935ac85a98.png",
+    "static/media/fa-brands-400.ttf": "/myportfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/myportfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/myportfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/myportfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/passGen.png": "/myportfolio/static/media/passGen.b053606f2f0b5fe0a649.png",
+    "static/media/classTracker.png": "/myportfolio/static/media/classTracker.c6d8df63e85405c83e07.png",
+    "static/media/fa-regular-400.woff2": "/myportfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/myportfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/myportfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/myportfolio/index.html",
+    "main.b42963df.css.map": "/myportfolio/static/css/main.b42963df.css.map",
+    "main.c6990d54.js.map": "/myportfolio/static/js/main.c6990d54.js.map",
+    "453.83234151.chunk.js.map": "/myportfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42963df.css",
+    "static/js/main.c6990d54.js"
+  ]
+}
